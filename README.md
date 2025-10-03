@@ -33,6 +33,15 @@ User Input → Intent Parser → Task Decomposer → Pipeline Builder → Task E
    Prompt    Identify Tasks   Create Graph    Order Tasks    Run Modules   Combine Results
 ```
 
+## 🎬 Demo
+
+<img width="1432" height="821" alt="Screenshot 2025-10-03 at 2 42 45 PM" src="https://github.com/user-attachments/assets/35a72db9-a6f6-480c-8da1-dd8d0790e9f2" />
+<img width="1432" height="821" alt="Screenshot 2025-10-03 at 2 43 04 PM" src="https://github.com/user-attachments/assets/0dc8b26f-557e-4f54-aabf-5a3df842ec94" />
+<img width="1432" height="821" alt="Screenshot 2025-10-03 at 2 45 38 PM" src="https://github.com/user-attachments/assets/0b9c92ea-91fc-49f2-b703-b899629ebead" />
+<img width="1432" height="821" alt="Screenshot 2025-10-03 at 2 45 46 PM" src="https://github.com/user-attachments/assets/772cc04c-4361-49b6-96e0-d1d536b2700e" />
+<img width="1432" height="821" alt="Screenshot 2025-10-03 at 2 45 52 PM" src="https://github.com/user-attachments/assets/a429fce2-bfcb-45d4-91a7-c0243cdc4646" />
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -301,7 +310,7 @@ Use provided Docker setup for container deployment
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions!Here's how:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -309,9 +318,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -324,15 +331,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: STEVE THOMAS MULAMOOTTIL
 - **Email**: st816043@gmail.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/steve-thomas-mulamoottil/)
+- **LinkedIn**: [https://www.linkedin.com/in/steve-thomas-mulamoottil](https://www.linkedin.com/in/steve-thomas-mulamoottil/)
 
 
-## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/prompt-to-pipeline&type=Date)](https://star-history.com/#yourusername/prompt-to-pipeline&Date)
 
 ---
 
 **Made with ❤️ by students passionate about AI and automation**
 
-*If you find this project useful, please ⭐ star it on GitHub!*
